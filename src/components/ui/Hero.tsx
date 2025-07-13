@@ -10,10 +10,10 @@ export default function Hero(){
                 </div>
                 <div className="flex lg:flex-row flex-col gap-5 justify-center w-full mt-10">
 
-                <button className="text-white space-x-1 bg-black flex justify-center rounded-md flex items-center px-7 py-2">
+                <button className="text-white space-x-1 bg-black flex justify-center rounded-md flex items-center px-7 lg:py-2 py-3">
 <Github className="size-5"/>
                     <span>GitHub</span></button>
-                <button className="bg-white border space-x-1 text-black shadow-md rounded-md flex items-center px-7 py-2">
+                <button className="bg-white border space-x-1 text-black shadow-md rounded-md flex items-center px-7 lg:py-2 py-3 justify-center">
 <FileOutput className="size-5"/>
                     <span>Curriculo Vitae</span></button>
 
