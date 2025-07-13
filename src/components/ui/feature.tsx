@@ -1,5 +1,5 @@
 import { Card } from "@/components/ui/card";
-import { GitHub } from 'lucide-react';
+
 export default function Features() {
   return (
     <section>
